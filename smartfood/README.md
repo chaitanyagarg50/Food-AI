@@ -37,7 +37,7 @@ SmartFood is an intelligent food recommendation system that uses AI to suggest p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smartfood.git
+git clone https://github.com/chaitanyagarg50/Food-AI.git
 cd smartfood
 ```
 
